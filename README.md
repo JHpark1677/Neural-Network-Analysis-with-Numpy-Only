@@ -1,6 +1,6 @@
 # Simple-Neural-Network-Analysis-with-Numpy-Only
 
-Numpy implementation without open source deep learning frameworks such as pytorch, tensorflow, keras, etc. 
+Numpy implementation of simple neural network without utilizing any open source deep learning frameworks such as pytorch, tensorflow, keras, etc. 
 
 
 
