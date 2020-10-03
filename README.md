@@ -65,7 +65,9 @@ python 2_hidden_layer.py
 - Examples
   - 'python 2_hidden_layer.py --noise 0.5 --lr 0.1 --epoch 10000 --number_node1 20 --number_node2 10 --print_by 100
   
-  
+
+You can also use jupyter notebook with "1_hidden_layer.ipynb" and "2_hidden_layer.ipynb".
+Don't require any input arguments but should be modified to experiment corresponding hyperparameters in source code.
   
 # Contact
 Please email ltbljb1677@postech.ac.kr for further questions
